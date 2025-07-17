@@ -25,6 +25,15 @@ This is a lightweight remote administration tool built in Python that allows a s
   ```
   pip install opencv-python mss numpy
   ```
-  ## Usage
+---
+  
+## Usage
+  - Run both the files using the following commands:
+  - Client side:
   ```
-  python3
+  python3 client.py
+  ```
+  - Server side:
+  ```
+  python3 server.py
+  ```
