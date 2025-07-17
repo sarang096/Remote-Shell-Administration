@@ -30,10 +30,12 @@ This is a lightweight remote administration tool built in Python that allows a s
 ## Usage
   - Run both the files using the following commands:
   - Client side:
-  ```
-  python3 client.py
-  ```
+    
+    ```
+    python3 client.py
+    ```
   - Server side:
-  ```
-  python3 server.py
-  ```
+    
+    ```
+    python3 server.py
+    ```
